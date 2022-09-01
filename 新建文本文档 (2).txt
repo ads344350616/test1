@@ -1,0 +1,106 @@
+ <li class='panel panel-default dropdown'> <a data-toggle='collapse' href='#dropdown-element1'> <span class='icon fa fa-barcode'></span><span class='title'>条码管理</span> </a><div id='dropdown-element1' class='panel-collapse collapse'><div class='panel-body'>  <ul class='nav navbar-nav'><li><a href='Pages/BarCode/CodeSelect.aspx' target='iframeid'>托小码查询</a></li></ul></div></div></li> <li class='panel panel-default dropdown'> <a data-toggle='collapse' href='#dropdown-element5'> <span class='icon fa fa-rmb'></span><span class='title'>红包设置</span> </a><div id='dropdown-element5' class='panel-collapse collapse'><div class='panel-body'>  <ul class='nav navbar-nav'><li><a href='Pages/RedManager/RedMoneyList.aspx' target='iframeid'>红包充值</a></li><li><a href='Pages/RedManager/RedManagerList.aspx' target='iframeid'>红包管理</a></li><li><a href='Pages/RedManager/RedShowList.aspx' target='iframeid'>红包信息</a></li><li><a href='Pages/RedManager/RedCountList.aspx' target='iframeid'>红包统计</a></li><li><a href='Pages/RedManager/RedInterfaceNList.aspx' target='iframeid'>页面布局</a></li><li><a href='Pages/RedManager/RedReceiveCountList.aspx' target='iframeid'>数据分析</a></li><li><a href='Pages/RedManager/RedCodeErrorList.aspx' target='iframeid'>错误信息</a></li><li><a href='Pages/RedManager/RedCustomerList.aspx' target='iframeid'>客户信息</a></li><li><a href='Pages/RedManager/RedLocationList.aspx' target='iframeid'>区域管理</a></li></ul></div></div></li> <li class='panel panel-default dropdown'> <a data-toggle='collapse' href='#dropdown-element7'> <span class='icon fa fa-calculator'></span><span class='title'>实物核销</span> </a><div id='dropdown-element7' class='panel-collapse collapse'><div class='panel-body'>  <ul class='nav navbar-nav'><li><a href='Pages/WriteOff/Store.aspx' target='iframeid'>门店管理</a></li><li><a href='Pages/WriteOff/WriteList.aspx' target='iframeid'>核销信息</a></li><li><a href='Pages/WriteOff/WriteStatistics.aspx' target='iframeid'>核销统计</a></li></ul></div></div></li> <li class='panel panel-default dropdown'> <a data-toggle='collapse' href='#dropdown-element13'> <span class='icon fa fa-gear'></span><span class='title'>管理员设置</span> </a><div id='dropdown-element13' class='panel-collapse collapse'><div class='panel-body'>  <ul class='nav navbar-nav'><li><a href='Pages/SysSet/ManagerList.aspx' target='iframeid'>用户账号</a></li><li><a href='Pages/SysSet/UserGroupList.aspx' target='iframeid'>用户权限</a></li></ul></div></div></li> <li class='panel panel-default dropdown'> <a data-toggle='collapse' href='#dropdown-element14'> <span class='icon fa fa-file-text'></span><span class='title'>日志管理</span> </a><div id='dropdown-element14' class='panel-collapse collapse'><div class='panel-body'>  <ul class='nav navbar-nav'><li><a href='Pages/Log/LogList.aspx' target='iframeid'>日志查询</a></li></ul></div></div></li> <li class='panel panel-default dropdown'> <a data-toggle='collapse' href='#dropdown-element15'> <span class='icon fa fa-thumbs-o-up'></span><span class='title'>使用帮助</span> </a><div id='dropdown-element15' class='panel-collapse collapse'><div class='panel-body'>  <ul class='nav navbar-nav'><li><a href='Pages/UserHelp/ChangePassWord.aspx' target='iframeid'>修改密码</a></li><li><a href='Pages/Sos/SosInfo3.htm' target='iframeid'>操作说明</a></li></ul></div></div></li>
+
+
+
+
+
+ <li class='panel panel-default dropdown'> <a data-toggle='collapse' href='#dropdown-element1'> <span class='icon fa fa-barcode'></span><span class='title'>条码管理</span> </a><div id='dropdown-element1' class='panel-collapse collapse'><div class='panel-body'>  <ul class='nav navbar-nav'><li><a href='Pages/BarCode/BarcodeHU.aspx' target='iframeid'>防伪码验证</a></li><li><a href='Pages/BarCode/CodeSelect.aspx' target='iframeid'>托小码查询</a></li></ul></div></div></li> <li class='panel panel-default dropdown'> <a data-toggle='collapse' href='#dropdown-element4'> <span class='icon fa fa-newspaper-o'></span><span class='title'>基本信息</span> </a><div id='dropdown-element4' class='panel-collapse collapse'><div class='panel-body'>  <ul class='nav navbar-nav'><li><a href='Pages/Info/DealersList.aspx' target='iframeid'>经销商管理</a></li></ul></div></div></li> <li class='panel panel-default dropdown'> <a data-toggle='collapse' href='#dropdown-element5'> <span class='icon fa fa-rmb'></span><span class='title'>红包设置</span> </a><div id='dropdown-element5' class='panel-collapse collapse'><div class='panel-body'>  <ul class='nav navbar-nav'><li><a href='Pages/RedManager/RedMoneyList.aspx' target='iframeid'>红包充值</a></li><li><a href='Pages/RedManager/RedManagerList.aspx' target='iframeid'>红包管理</a></li><li><a href='Pages/RedManager/RedShowList.aspx' target='iframeid'>红包信息</a></li><li><a href='Pages/RedManager/RedCountList.aspx' target='iframeid'>红包统计</a></li><li><a href='Pages/RedManager/RedReceiveCountList.aspx' target='iframeid'>数据分析</a></li><li><a href='Pages/RedManager/RedCodeErrorList.aspx' target='iframeid'>错误信息</a></li></ul></div></div></li> <li class='panel panel-default dropdown'> <a data-toggle='collapse' href='#dropdown-element7'> <span class='icon fa fa-calculator'></span><span class='title'>实物核销</span> </a><div id='dropdown-element7' class='panel-collapse collapse'><div class='panel-body'>  <ul class='nav navbar-nav'><li><a href='Pages/WriteOff/Store.aspx' target='iframeid'>门店管理</a></li><li><a href='Pages/WriteOff/WriteList.aspx' target='iframeid'>核销信息</a></li><li><a href='Pages/WriteOff/WriteStatistics.aspx' target='iframeid'>核销统计</a></li></ul></div></div></li> <li class='panel panel-default dropdown'> <a data-toggle='collapse' href='#dropdown-element13'> <span class='icon fa fa-gear'></span><span class='title'>管理员设置</span> </a><div id='dropdown-element13' class='panel-collapse collapse'><div class='panel-body'>  <ul class='nav navbar-nav'><li><a href='Pages/SysSet/ManagerList.aspx' target='iframeid'>用户账号</a></li><li><a href='Pages/SysSet/UserGroupList.aspx' target='iframeid'>用户权限</a></li></ul></div></div></li> <li class='panel panel-default dropdown'> <a data-toggle='collapse' href='#dropdown-element14'> <span class='icon fa fa-file-text'></span><span class='title'>日志管理</span> </a><div id='dropdown-element14' class='panel-collapse collapse'><div class='panel-body'>  <ul class='nav navbar-nav'><li><a href='Pages/Log/LogList.aspx' target='iframeid'>日志查询</a></li></ul></div></div></li> <li class='panel panel-default dropdown'> <a data-toggle='collapse' href='#dropdown-element15'> <span class='icon fa fa-thumbs-o-up'></span><span class='title'>使用帮助</span> </a><div id='dropdown-element15' class='panel-collapse collapse'><div class='panel-body'>  <ul class='nav navbar-nav'><li><a href='Pages/UserHelp/ChangePassWord.aspx' target='iframeid'>修改密码</a></li><li><a href='Pages/Sos/SosInfo3.htm' target='iframeid'>操作说明</a></li></ul></div></div></li>
+
+21101100041231   21101100059411
+
+
+
+omp0O5qx36b2FQPhzzHQCc63y9eU
+//小程序
+{
+  "authProvider": "WeChatMiniProgram",
+  "providerKey": "wxd322b4101d209a09",
+  "providerAccessCode": "1866d5dcf7bf002c554bbd80681d683b",
+  "returnUrl": "string",
+  "singleSignIn": true,
+  "ssdsdsd": "001O2Y0w3HCHwY2ieh0w37Vi251O2Y0J"
+}
+
+//公众号
+{
+  "authProvider": "WeChatMiniProgram",
+  "providerKey": "wx5427dbbfbe491ffb",
+  "providerAccessCode": "33ecbb0c2abb917cfb5c785352b335de",
+  "returnUrl": "string",
+  "singleSignIn": true,
+  "ssdsdsd": "001O2Y0w3HCHwY2ieh0w37Vi251O2Y0J"
+}
+
+wx5427dbbfbe491ffb
+33ecbb0c2abb917cfb5c785352b335de
+
+
+
+
+
+
+
+
+
+
+ExternalAuthenticate
+
+
+C:\ProgramData\MySQL\MySQL Server 8.0
+
+E:\Program Files\MySQL\MySQL Cluster 7.5\
+
+"E:\Program Files\MySQL\MySQL Server 8.0\bin\mysql.exe" "--defaults-file=e:\ProgramData\MySQL\MySQL Server 8.0\my.ini" "-uroot" "-p"
+
+
+"C:\Program Files\MySQL\MySQL Server 5.7\bin\mysql.exe" "--defaults-file=C:\Program Files\MySQL\MySQL Server 5.7\my.ini" "-uroot" "-p"
+
+E:\Program Files\MySQL\MySQL Server 8.0\bin\mysql.exe" "--defaults-file=e:\ProgramData\MySQL\MySQL Server 8.0\
+103.208.15.181
+E4-A8-DF-97-97-F5
+2C:56:DC:98:EC:70
+
+F8:89:D2:38:13:F4
+BB9DC9D965EDC9085622776F2621CF8E
+
+DB77CA425D691D697B67C510A7F35240
+上海已经得到恢复，信心已经恢复，做哪行都这样，没有什么吃亏论，输赢论，你难别人容易，做学生的考北大清华难，做运动员的成为刘翔难，做明星的成为刘德华难，做生意成为马云难，当官的成为军长司令难，那条路都这样，只能累了休息，辞职不干，休息好了，保持信心和勇气，继续坚持。
+
+"select *  from  " + tableName + " where  isEnable=0 and  GreatStart<=" + code + " and  GreatEnd>=" + code;
+
+
+
+春秋乐（25-11-10），美新丰（26-10-15，20-22-8），稼美佳(15-18-22，16-12-19，20-0-24），美晶丰（30-0-16）的码
+
+
+
+
+
+
+
+R2022428165028
+
+C2022328165447
+
+
+
+49329173993204156074  	 春秋乐 配方25-11-10
+19098109753479553613   美新丰配方26-15-10	
+12899601420782428469   美新丰     配方22-22-8
+42638283825538963127   稼美佳 配方15-18-22
+25956454850272833299    稼美佳配方16-12-19
+14079576762725626659    稼美佳            配方20-0-24
+28383595513423412694      美晶丰		 配方30-0-16
+
+
+
+
+1,漏了两个字，提高
+2，水溶钙显示问题，施宝密和非施宝密，
+3，防伪码延迟显示问题
+4，配方3使用说明，配方4使用说明，二铵配方使用说明修改、
+
+
+
+
+31	3	成功案列	0	防窜货系统	5	化肥	美盛农资（北京）有限公司	NULL	http://www.eshthink.com/website/static/UpImage/timg26.jpg	<p class="MsoNormal">   <span>美盛农资（北京）有限公司与我公司合作长达十多年，由最开始为贵公司提供防伪标签到现在提供物流串货系统、微信公账号、价值计算器</span>...<span>一系列辅助贵公司销售产品的软件。我们伴随着客户的成长而成长，客户是我们最好的老师，给了我们各种挑战机会，让我们从最初的标签印刷行业一步步的发展到今天能够给客户提供更多专业的解决方案。</span>   </p>  <p class="MsoNormal">   &nbsp;  </p>  <p class="MsoNormal">   <strong>项目简介</strong>   </p>  <p class="MsoNormal">   &nbsp;  </p>  <p class="MsoNormal">   所属行业：化肥行业  </p>  <p class="MsoNormal">   合作项目：防伪溯源、价值计算器、微信公众号文章案例库  </p>  <p class="MsoNormal">   软件介绍：  </p>  <p class="MsoNormal">   &nbsp;  </p>  <p class="MsoNormal">   防伪溯源  </p>  <p class="15" style="margin-left:21.0000pt;text-indent:-21.0000pt;">   1)&nbsp;<span>通过二维码实现对产品防伪的辨别，消费者正常扫描提示</span>“您所查询的是美盛公司作物营养产品，请放心使用，了解更多，请点击下方按钮”。多次查询会提示第一次查询时间和查询次数，超过五次查询系统自动结冻该二维码和预警此码可能出现盗版。  </p>  <p class="15" style="margin-left:21.0000pt;text-indent:-21.0000pt;">   2)&nbsp;展示了公司简介、产品系列。  </p>  <p class="15" style="margin-left:21.0000pt;text-indent:-21.0000pt;">   3)&nbsp;统计了消费者进入了哪些按钮界面  </p>  <p class="MsoNormal" style="text-align:center;">   <img width="236" height="420" src="/kindeditor/attached/image/20170928/20170928094101_2135.jpg" title="" align="" alt="" />&nbsp; &nbsp;<img width="236" height="420" src="/kindeditor/attached/image/20170928/20170928094108_9120.jpg" title="" align="" alt="" />   </p>  <p class="MsoNormal" style="text-align:center;">   <img width="236" height="419" src="/kindeditor/attached/image/20170928/20170928094141_4368.jpg" title="" align="" alt="" />&nbsp;&nbsp;<img width="236" height="419" src="/kindeditor/attached/image/20170928/20170928094147_0711.jpg" title="" align="" alt="" />   </p>  <p class="MsoNormal">   价值计算器  </p>  <p class="MsoNormal">   &nbsp;  </p>  <p class="15" style="margin-left:21pt;text-indent:-21pt;">   1)&nbsp;供消费者使用，通过使用此工具能够正确的选择为庄家施肥。  </p>  <p class="15" style="margin-left:21pt;text-indent:-21pt;">   2)&nbsp;获取消费者使用化肥情况  </p>  <p class="15" style="margin-left:21.0000pt;text-indent:0.0000pt;">   &nbsp;  </p>  <p class="15" style="text-align:center;margin-left:21pt;text-indent:0pt;">   <img src="/kindeditor/asp.net/../attached/image/20170928/20170928094621_9822.jpg" alt="" width="236" height="420" title="" align="" />&nbsp;&nbsp;<img src="/kindeditor/asp.net/../attached/image/20170928/20170928094622_9203.jpg" alt="" width="236" height="420" title="" align="" />   </p>  <p class="MsoNormal">   &nbsp;  </p>  <p class="MsoNormal">   文章案例库  </p>  <p class="15" style="margin-left:21.0000pt;text-indent:-21.0000pt;">   1)&nbsp;供消费者使用，给消费者提供了种植庄稼的技术方案  </p>  <p class="MsoNormal" style="text-align:center;">   &nbsp;<img src="/kindeditor/attached/image/20170928/20170928174645_2207.jpg" alt="" width="236" height="420" title="" align="" />&nbsp;&nbsp;<img src="/kindeditor/attached/image/20170928/20170928174830_6627.jpg" alt="" width="236" height="420" title="" align="" />   </p>  <p class="MsoNormal">   <br />  </p>  <p class="MsoNormal">   <strong>合作协议</strong>   </p>  <p class="MsoNormal">   &nbsp;  </p>  <p class="MsoNormal" style="text-align:center;">   <img width="236" height="325" src="/kindeditor/attached/image/20170928/20170928095022_3970.jpg" title="" align="" alt="" />&nbsp;<img width="236" height="325" src="/kindeditor/attached/image/20170928/20170928095033_2486.jpg" title="" align="" alt="" />&nbsp;  </p>  <p class="MsoNormal" style="text-align:center;">   <img width="236" height="325" src="/kindeditor/attached/image/20170928/20170928095039_8930.jpg" title="" align="" alt="" />&nbsp;<img width="236" height="325" src="/kindeditor/attached/image/20170928/20170928095045_4753.jpg" title="" align="" alt="" />&nbsp;  </p>  <p class="MsoNormal">   &nbsp;  </p>  <p class="MsoNormal">   <strong>客户反馈意见</strong>   </p>  <p class="MsoNormal" style="text-align:center;">   &nbsp;<img src="/kindeditor/attached/image/20170930/20170930125341_0974.jpg" alt="" width="500" height="688" title="" align="" />   </p>	2020-11-16 15:15:49.373	0	1	40	1
